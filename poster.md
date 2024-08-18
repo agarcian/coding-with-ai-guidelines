@@ -47,3 +47,17 @@ Below is a summarized view of the guidelines for efficient AI-assisted coding, p
     <img src="images/Revisit%20Chat%20History%20When%20Necessary.png" alt="Revisit Chat History When Necessary" style="width: 120px; margin-right: 20px;">
     <p>If your development process takes an unexpected turn or the AI gets stuck in a loop, revisit the chat history to find where things went off track. By refining the prompt at that point, you can reset the context and guide the AI back on the right path, ensuring more accurate and useful code generation.</p>
 </div>
+
+### Ask for Comments and Explanations
+
+<div style="display: flex; align-items: center;">
+    <img src="images/Ask%20for%20Comments%20and%20Explanations.png" alt="Ask for Comments and Explanations" style="width: 120px; margin-right: 20px;">
+    <p>Request detailed comments in AI-generated code to gain better insight into its logic and structure. If needed, ask for more detailed explanations to clarify complex sections. This practice enhances your understanding and eases future modifications.</p>
+</div>
+
+### Leverage AI for Diverse Coding Tasks
+
+<div style="display: flex; align-items: center;">
+    <img src="images/Leverage%20AI%20for%20Diverse%20Coding%20Tasks.png" alt="Leverage AI for Diverse Coding Tasks" style="width: 120px; margin-right: 20px;">
+    <p>AI assistants are valuable across a wide range of coding activities beyond just generating code. Use AI for tasks like writing and reviewing database scripts, code reviews, understanding unfamiliar code, creating functions, discussing software patterns, standardizing modules, documenting code, and writing tests. This broad utilization streamlines development and ensures high-quality, well-documented code.</p>
+</div>

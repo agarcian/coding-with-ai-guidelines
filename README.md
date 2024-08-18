@@ -47,7 +47,7 @@ Additionally, there may be specific preferences or conventions within your proje
 
 By keeping the AI updated with the latest context and clearly stating your preferences, you can significantly enhance the relevance and accuracy of the code it generates, making it a more effective tool in your development process.
 
-## Refine by Revisiting Chat History
+## Revisit Chat History When Necessary
 In the course of using an AI assistant, there may be times when the development process takes an unexpected turn, leading to code or logic that doesn’t meet your needs, or when the AI gets stuck in a loop, providing repetitive or unhelpful suggestions. When this happens, it's important to manage the context effectively to avoid further issues.
 
 One effective strategy is to revisit the chat history and identify the point where things began to diverge from your desired outcome. By updating or editing the prompt at that specific branch, you can reset the context, removing any unhelpful or irrelevant information from the AI’s understanding. This allows you to craft a better prompt that steers the session back on track, avoiding the pollution of context that might have occurred.
