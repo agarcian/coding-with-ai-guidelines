@@ -1,4 +1,4 @@
-# Guidelines to Efficiently Write Software Code with AI Assistants (Poster)
+# Guidelines to Efficiently Write Software Code with AI Assistants
 
 This document contains suggestions and guidelines on how to leverage AI assistants to write software code efficiently.
 
@@ -41,3 +41,9 @@ Below is a summarized view of the guidelines for efficient AI-assisted coding, p
     <p>AI assistants may not always be up-to-date with the latest versions of tools or frameworks. Provide the AI with additional context, like documentation or code snippets, to ensure it generates code aligned with current standards. Clearly state your preferences to guide the AI in maintaining consistency across your project.</p>
 </div>
 
+### Revisit Chat History When Necessary
+
+<div style="display: flex; align-items: center;">
+    <img src="images/Revisit%20Chat%20History%20When%20Necessary.png" alt="Revisit Chat History When Necessary" style="width: 120px; margin-right: 20px;">
+    <p>If your development process takes an unexpected turn or the AI gets stuck in a loop, revisit the chat history to find where things went off track. By refining the prompt at that point, you can reset the context and guide the AI back on the right path, ensuring more accurate and useful code generation.</p>
+</div>
