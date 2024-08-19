@@ -76,3 +76,8 @@ An AI assistant can be an invaluable tool across a wide range of coding activiti
 - Writing and Reviewing Test Code: AI can assist in writing test cases or reviewing existing ones, ensuring that your code is thoroughly tested and reliable.
 
 By leveraging the AI assistant for these diverse tasks, you can streamline your development process, reduce the time spent on routine activities, and ensure that your code is of high quality and well-documented.
+
+
+---
+
+_See a [poster version](poster.html) of this document._
