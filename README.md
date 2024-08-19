@@ -79,5 +79,8 @@ By leveraging the AI assistant for these diverse tasks, you can streamline your 
 
 
 ---
+_By Andres Garcia_
+_Version 0.1_
 
-_See a [poster version](poster.html) of this document._
+---
+_See a [poster version](https://htmlpreview.github.io/?poster.html) of this document._
