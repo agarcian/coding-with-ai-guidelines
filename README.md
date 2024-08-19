@@ -1,4 +1,4 @@
-# Guidelines to effciently write software code with AI assistants
+# Guidelines to efficiently write software code with AI assistants
 
 This document contains suggestions and guidelines on how to leverage AI assistants to write software code efficiently.
 
