@@ -80,4 +80,4 @@ By leveraging the AI assistant for these diverse tasks, you can streamline your 
 
 ---
 
-_See a [poster version](poster.html) of this document._
+_See a [poster version](https://htmlpreview.github.io/?https://github.com/agarcian/coding-with-ai-guidelines/blob/main/poster.html) of this document._
